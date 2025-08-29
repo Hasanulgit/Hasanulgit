@@ -15,7 +15,7 @@ My journey in Information Technology and Cybersecurity has led me to develop a p
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com](https://github.com/Hasanulgit/Detection-Lab-">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/Hasanulgit/Detection-Lab-">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -56,7 +56,7 @@ My journey in Information Technology and Cybersecurity has led me to develop a p
 </div>
 
 ## Projects
-- <a href="https://google.com](https://github.com/Hasanulgit/Detection-Lab-">Detection Lab</a>
+- <a href="https://github.com/Hasanulgit/Detection-Lab-">Detection Lab</a>
 - SOC Automation Project
 <!--
 **Hasanulgit/Hasanulgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
