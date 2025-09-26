@@ -47,7 +47,7 @@ My journey in Information Technology and Cybersecurity has led me to develop a p
 
 <div>
 
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+[![CompTIA A+](https://images.credly.com/size/200x200/images/673fc1cc-9fe7-43b8-bd2a-5f82c6bb1e82/CompTIA_Aplus_Logo_Certified.png)](https://www.credly.com/badges/c1b4a501-4747-48e9-b13b-be415f3909bd/public_url)
 
 </div>
 
