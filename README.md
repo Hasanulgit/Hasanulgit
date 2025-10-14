@@ -16,8 +16,7 @@ My journey in Information Technology and Cybersecurity has led me to develop a p
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Hasanulgit/Detection-Lab-">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+
 
 
 ## Tools
