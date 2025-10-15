@@ -51,8 +51,8 @@ My journey in Information Technology and Cybersecurity has led me to develop a p
 </div>
 
 ## Projects
-- <a href="https://github.com/Hasanulgit/Detection-Lab-">Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/Hasanulgit/Detection-Lab-">🧠Dive Into All My AI & Cyber Projects⚡</a>
+
 <!--
 **Hasanulgit/Hasanulgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
